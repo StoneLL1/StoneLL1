@@ -1,34 +1,28 @@
-<!--
-THESIS: A personal introduction followed by useful, verifiable work.
-OWN-WORLD: GitHub-native Markdown, system typography, linked project names, restrained emoji.
-STORY: Meet Stone, discover a useful tool, open its repository.
-FIRST VIEWPORT: Short introduction, language switch, then resume-builder as the leading project.
-FORM: Linear project directory following the user's Zara Zhang reference; no custom layout.
--->
+# Hi, I'm Stone 👋
 
-# 你好，我是小石 👋
+**English** · [简体中文](README.zh-CN.md)
 
-**中文** · [English](README.en.md)
+I build **AI products and agent workflows** at Zhejiang University, with a focus on **harness engineering, context engineering, and Agent Skills**.
 
-我做自己会用的 AI 工具和 Agent Skills，把学习、科研和日常生活里遇到的小麻烦，变成可以分享的小作品。
+My work centers on the engineering around the model: shaping context, orchestrating tools, and building verification into workflows so an agent's work can be checked and reused. I share my products and experiments as **小石谈记memo**.
 
-来自浙大，关注环境与可持续发展。也在公众号 **「小石谈记memo」** 记录工具体验、AI 实践和造物过程。
+📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/68e61d39000000003702c18b) · ✍️ [WeChat · 小石谈记memo](https://mp.weixin.qq.com/s/qXqQb1CWPW1cbvtiR-Kxaw) · 🌐 [FloatDo](https://floatdo.cn)
 
-[全部项目](https://github.com/StoneLL1?tab=repositories) · [桌面工具](#desktop-tools) · [Agent Skills](#agent-skills)
+[All projects](https://github.com/StoneLL1?tab=repositories) · [Desktop tools](#desktop-tools) · [Agent Skills](#agent-skills)
 
 ---
 
-## 📝 最近在做：resume-builder
+## 📝 Currently building: resume-builder
 
-从零散经历到一份可投递的简历：让 Agent 主动追问、核对事实、组织内容，再选模板、在网页中精修，最后导出 PDF。
+Turn scattered experience into a resume you can send. An agent asks follow-up questions, checks the facts, shapes the content, and helps you choose a template and refine it in a browser before exporting a PDF.
 
 [**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->127<!--/stars--> stars<br>
-支持中英文简历，提供 18 套模板，使用 Typst 排版。
+Chinese and English resumes, 18 templates, and Typst typesetting.
 
 <details>
-<summary>看看简历编辑器</summary>
+<summary>See the resume editor</summary>
 
-![resume-builder 简历编辑器：左侧预览实际排版，右侧调整内容；截图使用虚构演示素材](https://raw.githubusercontent.com/StoneLL1/resume-builder/main/assets/screenshots/editor.png)
+![The resume-builder editor: actual typeset preview on the left, content editing on the right. The screenshot uses fictional demo content.](https://raw.githubusercontent.com/StoneLL1/resume-builder/main/assets/screenshots/editor.png)
 
 </details>
 
@@ -36,18 +30,21 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 
 <a id="desktop-tools"></a>
 
-## 🖥️ 桌面工具
+## 🖥️ Desktop tools
 
-把重复操作交给工具，给真正想做的事留点时间。
+Less time on repetitive steps. More time for the work you care about.
+
+🗒️ [**FloatDo**](https://floatdo.cn)<br>
+Edge-docked sticky notes and local clipboard history. Capture text, tasks, images, and files, and find what you copied earlier.
 
 📋 [**NeatCopy**](https://github.com/StoneLL1/NeatCopy) · <!--stars:NeatCopy-->41<!--/stars--> stars<br>
-复制、处理、直接粘贴。清理多余换行和混乱格式，也能用 AI 翻译、润色和摘要。支持 Windows 与 macOS。
+Copy, process, paste. Clean up line breaks and formatting, or use AI to translate, rewrite, and summarize. For Windows and macOS.
 
 🗂️ [**LLM Wiki Desktop**](https://github.com/StoneLL1/llm-wiki-desktop) · <!--stars:llm-wiki-desktop-->13<!--/stars--> stars<br>
-把文档、网页和媒体整理成相互连接的 Markdown 知识库，在本地阅读、检索，并接入自己的 AI。
+Turn documents, web pages, and media into a connected Markdown knowledge base. Read and search locally, and connect your own AI.
 
 📐 [**TexPaste**](https://github.com/StoneLL1/TexPaste) · <!--stars:TexPaste-->11<!--/stars--> stars<br>
-截图识别公式，把 LaTeX 和 Markdown 粘贴到 Word / WPS，公式保持原生可编辑。面向 Windows。
+Capture formulas from screenshots and paste LaTeX or Markdown into Word / WPS with editable native equations. For Windows.
 
 ---
 
@@ -55,17 +52,17 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 
 ## 🧩 Agent Skills
 
-把好用的做事方法，整理成 Agent 可以反复执行的工作流。
+Practical ways of working, packaged so an agent can follow them again.
 
 ✅ [**dida-task-skill**](https://github.com/StoneLL1/dida-task-skill) · <!--stars:dida-task-skill-->6<!--/stars--> stars<br>
-用自然语言管理滴答清单 / TickTick：从通知里提取任务，识别日期、检查重复，并按项目归类。通过 MCP 连接。
+Manage TickTick tasks in natural language: extract actions from announcements, parse dates, check duplicates, and route tasks to projects. Connects through MCP.
 
 🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->0<!--/stars--> stars<br>
-先看懂项目，再补充 AGENTS.md。复用已有协作规则，把能查证的项目信息写清楚，只追问代码无法回答的问题。
+Explore a project before writing its AGENTS.md. Reuse existing working agreements, add verified project context, and ask about the decisions code cannot explain.
 
-🏋️ [**薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>
-通过日常对话记录饮食、训练与体重，把数据留在本地文件里，再根据真实执行情况持续复盘。
+🏋️ [**boji-skill · 薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>
+Track meals, training, and body weight through everyday conversation. Keep records in local files and review what you actually did.
 
 ---
 
-如果某个项目刚好解决了你的问题，欢迎试用，也欢迎到对应仓库提 Issue。实际使用中的反馈，是下一次改进最好的起点。
+If something here solves a problem for you, give it a try and share feedback in that project's Issues. Real use is where the next improvement starts.

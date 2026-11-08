@@ -8,7 +8,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
-FILES = (ROOT / "README.md", ROOT / "README.en.md")
+FILES = (ROOT / "README.md", ROOT / "README.zh-CN.md")
 MARKER = re.compile(r"(<!--stars:([A-Za-z0-9_.-]+)-->)([0-9]+)(<!--/stars-->)")
 
 
