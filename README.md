@@ -16,7 +16,7 @@ My work centers on the engineering around the model: shaping context, orchestrat
 
 Turn scattered experience into a resume you can send. An agent asks follow-up questions, checks the facts, shapes the content, and helps you choose a template and refine it in a browser before exporting a PDF.
 
-[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->127<!--/stars--> stars<br>
+[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->131<!--/stars--> stars<br>
 Chinese and English resumes, 18 templates, and Typst typesetting.
 
 <details>
@@ -57,7 +57,7 @@ Practical ways of working, packaged so an agent can follow them again.
 ✅ [**dida-task-skill**](https://github.com/StoneLL1/dida-task-skill) · <!--stars:dida-task-skill-->6<!--/stars--> stars<br>
 Manage TickTick tasks in natural language: extract actions from announcements, parse dates, check duplicates, and route tasks to projects. Connects through MCP.
 
-🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->0<!--/stars--> stars<br>
+🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->2<!--/stars--> stars<br>
 Explore a project before writing its AGENTS.md. Reuse existing working agreements, add verified project context, and ask about the decisions code cannot explain.
 
 🏋️ [**boji-skill · 薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>

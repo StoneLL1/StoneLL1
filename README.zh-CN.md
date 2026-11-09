@@ -24,7 +24,7 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 
 从零散经历到一份可投递的简历：让 Agent 主动追问、核对事实、组织内容，再选模板、在网页中精修，最后导出 PDF。
 
-[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->127<!--/stars--> stars<br>
+[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->131<!--/stars--> stars<br>
 支持中英文简历，提供 18 套模板，使用 Typst 排版。
 
 <details>
@@ -65,7 +65,7 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 ✅ [**dida-task-skill**](https://github.com/StoneLL1/dida-task-skill) · <!--stars:dida-task-skill-->6<!--/stars--> stars<br>
 用自然语言管理滴答清单 / TickTick：从通知里提取任务，识别日期、检查重复，并按项目归类。通过 MCP 连接。
 
-🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->0<!--/stars--> stars<br>
+🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->2<!--/stars--> stars<br>
 先看懂项目，再补充 AGENTS.md。复用已有协作规则，把能查证的项目信息写清楚，只追问代码无法回答的问题。
 
 🏋️ [**薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>
