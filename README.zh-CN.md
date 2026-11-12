@@ -24,7 +24,7 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 
 从零散经历到一份可投递的简历：让 Agent 主动追问、核对事实、组织内容，再选模板、在网页中精修，最后导出 PDF。
 
-[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->149<!--/stars--> stars<br>
+[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->153<!--/stars--> stars<br>
 支持中英文简历，提供 18 套模板，使用 Typst 排版。
 
 <details>
