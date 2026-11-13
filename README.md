@@ -16,7 +16,7 @@ My work centers on the engineering around the model: shaping context, orchestrat
 
 Turn scattered experience into a resume you can send. An agent asks follow-up questions, checks the facts, shapes the content, and helps you choose a template and refine it in a browser before exporting a PDF.
 
-[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->153<!--/stars--> stars<br>
+[**resume-builder**](https://github.com/StoneLL1/resume-builder) · <!--stars:resume-builder-->154<!--/stars--> stars<br>
 Chinese and English resumes, 18 templates, and Typst typesetting.
 
 <details>
