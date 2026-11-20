@@ -45,13 +45,13 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 🗒️ [**FloatDo**](https://floatdo.cn)<br>
 贴边便笺与本地剪贴板历史。随手记录文字、待办、图片和文件，找回复制过的内容。
 
-📋 [**NeatCopy**](https://github.com/StoneLL1/NeatCopy) · <!--stars:NeatCopy-->41<!--/stars--> stars<br>
+📋 [**NeatCopy**](https://github.com/StoneLL1/NeatCopy) · <!--stars:NeatCopy-->40<!--/stars--> stars<br>
 复制、处理、直接粘贴。清理多余换行和混乱格式，也能用 AI 翻译、润色和摘要。支持 Windows 与 macOS。
 
 🗂️ [**LLM Wiki Desktop**](https://github.com/StoneLL1/llm-wiki-desktop) · <!--stars:llm-wiki-desktop-->13<!--/stars--> stars<br>
 把文档、网页和媒体整理成相互连接的 Markdown 知识库，在本地阅读、检索，并接入自己的 AI。
 
-📐 [**TexPaste**](https://github.com/StoneLL1/TexPaste) · <!--stars:TexPaste-->11<!--/stars--> stars<br>
+📐 [**TexPaste**](https://github.com/StoneLL1/TexPaste) · <!--stars:TexPaste-->10<!--/stars--> stars<br>
 截图识别公式，把 LaTeX 和 Markdown 粘贴到 Word / WPS，公式保持原生可编辑。面向 Windows。
 
 ---
@@ -65,7 +65,7 @@ FORM: Linear project directory following the user's Zara Zhang reference; no cus
 ✅ [**dida-task-skill**](https://github.com/StoneLL1/dida-task-skill) · <!--stars:dida-task-skill-->6<!--/stars--> stars<br>
 用自然语言管理滴答清单 / TickTick：从通知里提取任务，识别日期、检查重复，并按项目归类。通过 MCP 连接。
 
-🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->2<!--/stars--> stars<br>
+🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->3<!--/stars--> stars<br>
 先看懂项目，再补充 AGENTS.md。复用已有协作规则，把能查证的项目信息写清楚，只追问代码无法回答的问题。
 
 🏋️ [**薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>

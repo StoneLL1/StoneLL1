@@ -37,13 +37,13 @@ Less time on repetitive steps. More time for the work you care about.
 🗒️ [**FloatDo**](https://floatdo.cn)<br>
 Edge-docked sticky notes and local clipboard history. Capture text, tasks, images, and files, and find what you copied earlier.
 
-📋 [**NeatCopy**](https://github.com/StoneLL1/NeatCopy) · <!--stars:NeatCopy-->41<!--/stars--> stars<br>
+📋 [**NeatCopy**](https://github.com/StoneLL1/NeatCopy) · <!--stars:NeatCopy-->40<!--/stars--> stars<br>
 Copy, process, paste. Clean up line breaks and formatting, or use AI to translate, rewrite, and summarize. For Windows and macOS.
 
 🗂️ [**LLM Wiki Desktop**](https://github.com/StoneLL1/llm-wiki-desktop) · <!--stars:llm-wiki-desktop-->13<!--/stars--> stars<br>
 Turn documents, web pages, and media into a connected Markdown knowledge base. Read and search locally, and connect your own AI.
 
-📐 [**TexPaste**](https://github.com/StoneLL1/TexPaste) · <!--stars:TexPaste-->11<!--/stars--> stars<br>
+📐 [**TexPaste**](https://github.com/StoneLL1/TexPaste) · <!--stars:TexPaste-->10<!--/stars--> stars<br>
 Capture formulas from screenshots and paste LaTeX or Markdown into Word / WPS with editable native equations. For Windows.
 
 ---
@@ -57,7 +57,7 @@ Practical ways of working, packaged so an agent can follow them again.
 ✅ [**dida-task-skill**](https://github.com/StoneLL1/dida-task-skill) · <!--stars:dida-task-skill-->6<!--/stars--> stars<br>
 Manage TickTick tasks in natural language: extract actions from announcements, parse dates, check duplicates, and route tasks to projects. Connects through MCP.
 
-🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->2<!--/stars--> stars<br>
+🧭 [**agents-md-init**](https://github.com/StoneLL1/agents-md-init) · <!--stars:agents-md-init-->3<!--/stars--> stars<br>
 Explore a project before writing its AGENTS.md. Reuse existing working agreements, add verified project context, and ask about the decisions code cannot explain.
 
 🏋️ [**boji-skill · 薄肌.skill**](https://github.com/StoneLL1/boji-skill) · <!--stars:boji-skill-->1<!--/stars--> stars<br>
